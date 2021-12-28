@@ -386,7 +386,7 @@ public class GauntletCalculatorPanel extends PluginPanel {
 
         //potion
         grymCount += potionX;
-        shardCount += potionX * 10;
+        shardCount += potionX * 20;
 
         //teleport
         shardCount += teleportX * 40;
